@@ -17,13 +17,19 @@ such as modern information security standards for web applications. Logging in c
 ## Illustrations
 
 ### Register user
-![](screenshot/createUser.png)
+![](screenshot/register.png)
 
-### Create new recipe
-![](screenshot/createRecipe.png)
+### Change role by admin
+![](screenshot/changerole.png)
 
-### Get recipy by Id
-![](screenshot/getRecipe.png)
+### Get all users by admin
+![](screenshot/getUsers.png)
 
-### Delete recipe
-![](screenshot/deleteRecipe.png)
+### Change access status by admin
+![](screenshot/lockUser.png)
+
+### Show all events by auditor
+![](screenshot/showEvents.png)
+
+### Post payments by accountant
+![](screenshot/uploadPayments.png)
